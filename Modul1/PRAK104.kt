@@ -9,7 +9,6 @@ Sebagai gantinya kalian harus bekerja $waktu.
 }
 
 fun main(args: Array<String>) {
-    val Programmer = Pekerjaan("Programmer", 10000000, "Full-TIme")
+    val Programmer = Pekerjaan("Programmer", 10000000, "Full-Time")
     Programmer.Ingfo()
 }
-

@@ -8,6 +8,6 @@ fun hitung(x: Int){
 fun main(args: Array<String>) {
     val sken = Scanner(System. `in`)
     print("Nilai x = ")
-    val x = sken.nextInt()
-    var hasil = hitung(x)
+    hitung(sken.nextInt())
 }
+

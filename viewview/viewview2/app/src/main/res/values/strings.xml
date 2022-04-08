@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">viewview</string>
+    <string name="programmer">Programmer</string>
+    <string name="pengusaha">Pengusaha</string>
+    <string name="polisi">Polisi</string>
+    <string name="petani">Petani</string>
+    <string name="dokter">Dokter</string>
+    <string name="dosen">Dosen</string>
+    <string name="guru">Guru</string>
+</resources>
